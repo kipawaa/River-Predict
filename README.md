@@ -1,4 +1,4 @@
-# River-Predic
+# River-Predict
 
 Predicts flow in a river based on watershed, precipitation, temperature and previous flow data.
 
